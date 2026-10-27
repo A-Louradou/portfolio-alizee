@@ -1,6 +1,6 @@
-# <p align="center">PDF Flipbook</p>
+# Portfolio Alizée
 
-<https://pdfflipbook.vercel.app> - Demo
+Realized with Flipbook. Documentation below.
 
 ---
 
